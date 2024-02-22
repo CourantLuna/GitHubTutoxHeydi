@@ -1,3 +1,5 @@
+### Please to to `master` branch to see the result of this tutorial
+
 # GitHubTutoxHeydi
 This repository keep files for example in video tutorial about basics of GitHub
 
