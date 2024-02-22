@@ -37,6 +37,12 @@ Link your local repository with a remote one:
 git remote add origin <URL_of_the_remote_repository>
 ```
 
+## Fetch changes of remote repository
+
+```bash
+git fetch origin master
+```
+
 ## Pushing Changes
 To push your changes to the remote repository, use:
 
