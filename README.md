@@ -1,7 +1,12 @@
 # GitHubTutoxHeydi
 This repository keep files for example in video tutorial about basics of GitHub
 
-Welcome to the git tuorial using Powershell from Windows
+Welcome to the git tutorial using Powershell from Windows!
+
+
+## Youtube Video
+[![Manejo de Git: init, add, commit, push, fetch & pull (GitHub)](https://img.youtube.com/vi/eqclaAj88sI/hqdefault.jpg)](https://youtu.be/eqclaAj88sI)
+
 
 ## Objetives
 
